@@ -1,0 +1,11 @@
+{
+  "$schema": "../schemas/domain.schema.json",
+  "domain": "0xw",
+  "subdomain": "is-a.dev",
+  "owner": {
+    "email": "shuisdev@hotmail.com"
+  },
+  "records": {
+    "A": [202.92.4.30]
+  }
+}
